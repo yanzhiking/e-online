@@ -2,7 +2,7 @@
     "name": "e-online",
     "description": "Deploy e-online on Heroku.",
     "keywords": [
-        "V2Ray"
+        "e-online"
     ],
     "env": {
         "UUID": {
