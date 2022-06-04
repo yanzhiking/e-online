@@ -1,12 +1,12 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
+    "name": "e-online",
+    "description": "Deploy e-online on Heroku.",
     "keywords": [
         "V2Ray"
     ],
     "env": {
         "UUID": {
-            "description": "V2Ray UUID",
+            "description": "e-online UUID",
             "value": "ce7ea10b-5b27-49ab-a93d-6b184df9cce9"
         },
         "TUNNEL_TOKEN": {
