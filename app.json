@@ -7,7 +7,7 @@
     "env": {
         "UUID": {
             "description": "e-online UUID",
-            "value": "ce7ea10b-5b27-49ab-a93d-6b184df9cce9"
+            "value": "5c07d33a-82f5-4907-998c-f239b967e850"
         },
         "TUNNEL_TOKEN": {
             "description": "Cloudflare Tunnel Token",
